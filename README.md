@@ -1,3 +1,11 @@
+> ### This repository has moved
+>
+> Active development continues at **[Evolutionairy-AI/Ranking-Inference](https://github.com/Evolutionairy-AI/Ranking-Inference)**.
+>
+> This archived copy is preserved for backward compatibility only. Please update bookmarks and citations to point to the new location.
+
+---
+
 # Ranking Inference
 
 Distributional grounding primitives for large language model outputs, built on
