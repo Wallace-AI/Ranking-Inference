@@ -8,6 +8,8 @@
 
 # Ranking Inference
 
+[![arXiv](https://img.shields.io/badge/arXiv-2604.25634-b31b1b.svg)](https://arxiv.org/abs/2604.25634)
+
 Distributional grounding primitives for large language model outputs, built on
 the **Mandelbrot Ranking Distribution** f(r) = C / (r + q)^s.
 
@@ -149,11 +151,13 @@ pytest tests/
 
 ```bibtex
 @article{bogdan2026universality,
-  title  = {The Surprising Universality of LLM Outputs:
-            A Real-Time Verification Primitive},
-  author = {Bogdan, Alex and de Valois-Franklin, Adrian},
-  year   = {2026},
-  note   = {arXiv preprint, forthcoming},
+  title         = {The Surprising Universality of LLM Outputs:
+                   A Real-Time Verification Primitive},
+  author        = {Bogdan, Alex and de Valois-Franklin, Adrian},
+  year          = {2026},
+  eprint        = {2604.25634},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL},
 }
 ```
 
